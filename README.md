@@ -9,7 +9,7 @@
 
 ### Social
 <div style="display: flex;" >
-    <a href="https://www.instagram.com/yet.nunes/"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_201.png?itok=xztgzGA4" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+    <a href="https://www.instagram.com/yet.nunes/" target="_blank"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_201.png?itok=xztgzGA4" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 </div>
 
 ### Main technologies
