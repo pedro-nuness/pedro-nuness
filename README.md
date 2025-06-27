@@ -28,7 +28,4 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-oliveira-3a8a0b313/)
 
 
-
-<div>
-  <img src="https://iconape.com/wp-content/files/px/195963/svg/195963.svg" style="width: 400px">
-</div>
+### <p><a href="https://github.com/pedro-oliveira-ucb" style="font-weight: bold;">Perfil Acadêmico</a></p>
