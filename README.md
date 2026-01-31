@@ -21,8 +21,6 @@
 <br/>
 <br/>
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nuness&show_icons=true)
-
 
 📫 Contato: [skytlepedro@hotmail.com](mailto:skytlepedro@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-oliveira-3a8a0b313/)
